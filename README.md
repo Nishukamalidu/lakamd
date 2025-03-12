@@ -54,7 +54,7 @@ You can deploy this bot for free on the following platforms:
 ---
 
 ###  Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/lakamdbot2025/lakamd)
 
 ---
 
